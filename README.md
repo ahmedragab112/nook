@@ -155,9 +155,9 @@ playback from Music, Spotify and browsers appears without a separate integration
 
 Nook is designed to keep your data on the Mac it runs on.
 
-- No analytics, no accounts, no crash uploads, no background network traffic.
-- The only outbound request is the public [Open-Meteo](https://open-meteo.com)
-  API for the city you type into Weather.
+- No analytics, no accounts, no crash uploads, no telemetry.
+- The only outbound traffic is the public [Open-Meteo](https://open-meteo.com)
+  API: geocoding for the city in Settings and a forecast refresh every 15 minutes.
 - Notes, shelf files and shortcut lists are stored in Nook's own Application
   Support folder.
 - Clipboard history is kept in memory only and disappears when Nook quits.

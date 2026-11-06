@@ -1,7 +1,7 @@
 # Privacy
 
-Nook is built to run on your Mac. There is no account, no analytics, no crash
-reporting and no background network traffic.
+Nook is built to run on your Mac. There is no account, no analytics and no
+crash reporting.
 
 ## What stays on the Mac
 
@@ -31,8 +31,9 @@ Weather uses the public [Open-Meteo](https://open-meteo.com) API:
   show the last forecast offline.
 
 The requests contain coordinates and nothing else — no identifier, account or
-device information. If you never open Weather, Nook makes no network calls of
-its own.
+device information. Weather refreshes when Nook launches and every fifteen
+minutes while it is running; clear the city in Settings to stop the requests
+entirely. Nook makes no other network calls of its own.
 
 ## Agent chats
 
