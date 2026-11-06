@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>Nook</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.ahmedragab.nook</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Nook</string>
+	<key>CFBundleDisplayName</key>
+	<string>Nook</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>13.0</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>NSSupportsAutomaticGraphicsSwitching</key>
+	<true/>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Nook shows your upcoming events in the notch. Everything stays on this Mac.</string>
+	<key>NSCalendarsFullAccessUsageDescription</key>
+	<string>Nook reads your calendar to show the next meeting in the notch. Everything stays on this Mac.</string>
+	<key>NSAppleEventsUsageDescription</key>
+	<string>Nook reads Music and Spotify playback so you can control it from the notch.</string>
+	<key>NSRemindersUsageDescription</key>
+	<string>Nook shows your reminders in the notch and lets you tick them off. Everything stays on this Mac.</string>
+	<key>NSRemindersFullAccessUsageDescription</key>
+	<string>Nook reads and completes your reminders from the notch. Everything stays on this Mac.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Nook shows a mirror preview in the notch. The camera feed never leaves this Mac.</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Nook — local-only notch productivity hub.</string>
+</dict>
+</plist>

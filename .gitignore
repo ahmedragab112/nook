@@ -1,0 +1,14 @@
+# Build products
+.build/
+.swiftpm/
+Nook.app/
+
+# Rebuilt by Scripts/build_mediaremote.sh
+Support/MediaRemoteAdapter/build/
+
+# macOS noise
+.DS_Store
+
+# Xcode
+*.xcodeproj/
+xcuserdata/
